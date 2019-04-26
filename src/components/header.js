@@ -8,7 +8,7 @@ import Layout from "./layout"
 const Header = ({ siteTitle }) => (
   <header
     style={{
-      background: `rebeccapurple`,
+      background: `#463e4b`,
       marginBottom: `1.45rem`,
     }}
   >
@@ -23,7 +23,7 @@ const Header = ({ siteTitle }) => (
         <Link
           to="/"
           style={{
-            color: `white`,
+            color: `grey`,
             textDecoration: `none`,
           }}
         >
@@ -35,14 +35,22 @@ const Header = ({ siteTitle }) => (
       </h1>
     </div>
     <div>
-      <ol>
-        <li>
-          <Link to="/">Go back to the homepage</Link>
-        </li>
-        <li>
-          <Link to="/about/">Learn More About Me!</Link>
-        </li>
-      </ol>
+
+      <div>
+        <button>
+          <Link to="/">Home</Link>
+        </button>
+        <button>
+          <Link to="/about/">About</Link>
+        </button>
+        <button>
+          <Link to="/projects/">Projects</Link>
+        </button>
+        <button>
+          <Link to="/contacts/">Contact Me</Link>
+        </button>
+      </div>
+
 
     </div>
   </header>

@@ -19,8 +19,6 @@ const About = () => (
         profits and their reach to new and existing client basis.
       </p>
     </div>
-    <Link to="///">Home</Link>
-    <Link to="/projects/">Check Out My Work!</Link>
   </Layout>
 )
 export default About

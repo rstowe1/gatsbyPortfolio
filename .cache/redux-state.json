@@ -921,12 +921,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-04-26T00:49:44.913Z",
+      "buildTime": "2019-04-26T18:45:20.297Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "350fb2a533941aae0360c7518f53be8f",
+        "contentDigest": "aeeac7bc4338cb6e82b5b0b69bfdd8f0",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1193,6 +1193,27 @@
         "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
         "owner": "internal-data-bridge"
       }
+    },
+    "SitePage /contacts/": {
+      "jsonName": "contacts-d23",
+      "internalComponentName": "ComponentContacts",
+      "path": "/contacts/",
+      "component": "C:/Users/ryanw/projects/gatsbyPortfolio/src/pages/contacts.js",
+      "componentChunkName": "component---src-pages-contacts-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "fd024769-e141-5510-afbb-386aa774c114",
+      "pluginCreatorId": "fd024769-e141-5510-afbb-386aa774c114",
+      "componentPath": "C:/Users/ryanw/projects/gatsbyPortfolio/src/pages/contacts.js",
+      "id": "SitePage /contacts/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "508022a691f91006314fb9bdce171099",
+        "description": "fd024769-e141-5510-afbb-386aa774c114",
+        "owner": "internal-data-bridge"
+      }
     }
   },
   "status": {
@@ -1226,7 +1247,8 @@
     "about-f34": "708/path---about-f-34-4c2-0SUcWyAf8ecbYDsMhQkEfPzV8",
     "company-team-21b": "627/path---company-team-21-b-2ae-0SUcWyAf8ecbYDsMhQkEfPzV8",
     "company-team-a16": "860/path---company-team-a-16-046-0SUcWyAf8ecbYDsMhQkEfPzV8",
-    "projects-9e9": "175/path---projects-9-e-9-957-0SUcWyAf8ecbYDsMhQkEfPzV8"
+    "projects-9e9": "175/path---projects-9-e-9-957-0SUcWyAf8ecbYDsMhQkEfPzV8",
+    "contacts-d23": "71/path---contacts-d-23-81b-0SUcWyAf8ecbYDsMhQkEfPzV8"
   },
   "components": {
     "C:/Users/ryanw/projects/gatsbyPortfolio/.cache/dev-404-page.js": {
@@ -1267,6 +1289,14 @@
       "query": "",
       "pages": [
         "/projects/"
+      ],
+      "isInBootstrap": false
+    },
+    "C:/Users/ryanw/projects/gatsbyPortfolio/src/pages/contacts.js": {
+      "componentPath": "C:/Users/ryanw/projects/gatsbyPortfolio/src/pages/contacts.js",
+      "query": "",
+      "pages": [
+        "/contacts/"
       ],
       "isInBootstrap": false
     }

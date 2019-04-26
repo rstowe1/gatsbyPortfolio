@@ -9,6 +9,7 @@ exports.components = {
   "component---src-pages-404-js": hot(preferDefault(require("C:\\Users\\ryanw\\projects\\gatsbyPortfolio\\src\\pages\\404.js"))),
   "component---src-pages-about-js": hot(preferDefault(require("C:\\Users\\ryanw\\projects\\gatsbyPortfolio\\src\\pages\\about.js"))),
   "component---src-pages-index-js": hot(preferDefault(require("C:\\Users\\ryanw\\projects\\gatsbyPortfolio\\src\\pages\\index.js"))),
-  "component---src-pages-projects-js": hot(preferDefault(require("C:\\Users\\ryanw\\projects\\gatsbyPortfolio\\src\\pages\\projects.js")))
+  "component---src-pages-projects-js": hot(preferDefault(require("C:\\Users\\ryanw\\projects\\gatsbyPortfolio\\src\\pages\\projects.js"))),
+  "component---src-pages-contacts-js": hot(preferDefault(require("C:\\Users\\ryanw\\projects\\gatsbyPortfolio\\src\\pages\\contacts.js")))
 }
 
